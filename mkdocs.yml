@@ -158,6 +158,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
+  - Початок роботи: index.md
   - Getting started:
     - Installation: getting-started.md
     - Creating your site: creating-your-site.md
